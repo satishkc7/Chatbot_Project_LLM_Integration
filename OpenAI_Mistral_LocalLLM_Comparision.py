@@ -46,7 +46,7 @@ def measure_response_time(chain, query):
 
 # Function to measure CPU and memory usage
 def measure_resource_usage():
-    cpu_usage = psutil.cpu_percent(interval=1)  # Measures CPU usage over a 1-second interval
+    cpu_usage = psutil.cpu_percent(interval=1)  # MeasuresCPU usage over a 1-second interval
     memory_info = psutil.virtual_memory()       # Gets virtual memory usage statistics
     return cpu_usage, memory_info.percent       # Returns CPU usage and percentage of memory usage
 
