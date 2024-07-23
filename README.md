@@ -8,3 +8,5 @@ Comparison Parameters:
   -- Memory Usage
 
 
+<img width="738" alt="Screenshot 2024-07-23 at 12 16 49 AM" src="https://github.com/user-attachments/assets/945b1dce-b56d-4000-8480-2dcc76ef9a49">
+The screenshot is about comparing one of the queries for two models.
